@@ -1,0 +1,27 @@
+body {
+  font: 20px/1.5 "Helvetica","Arial",sans-serif;
+  color: rgba(35,30,30,0.9);
+}
+h1,h2,h3,h4,h5 {
+  font: 20px/1.5 "Helvetica","Arial",sans-serif;
+  color: rgba(35,30,30,0.9);
+}
+h6 {
+  font: italic 15px/1.5 "Times","Times New Roman",serif;
+  color: rgba(35,30,30,0.3);
+}
+a {
+  color: rgba(35,30,30,0.3);
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: none;
+}
+blockquote {
+  padding-left: 16.875px;
+  border-left: 2px solid rgba(35,30,30,0.3);
+  margin-left: 10.875px;
+  margin-right: 0;
+  padding-right: 0;
+  color: rgba(35,30,30,0.3);
+}
