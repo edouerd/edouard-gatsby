@@ -1,9 +1,10 @@
 ---
 title: Tumblr
+subtitle: At the moment, I'm working on making Tumblr a little bit less introverted. Currently designing how messaging works across all scales, from the one–to–one to the many–to–many. There's also lots of other things happening, but more about that later. I blog on Tumblr about Tumblr!
 date: "2015-05-30T22:40:32.169Z"
 layout: post
-readNext: "/hosting-static-sites-with-docker-and-nginx/"
+readNext: "/ibm-radio/"
 path: "/tumblr/"
 ---
 
-*This post is going to be a little hard to read for those that don't speak latin.*
+Shut

@@ -8,6 +8,8 @@ import access from 'safe-access'
 import { config } from 'config'
 import include from 'underscore.string/include'
 import Bio from 'components/Bio'
+import Currently from 'components/Currently'
+import Previously from 'components/Previously'
 
 class BlogIndex extends React.Component {
   render () {
@@ -19,6 +21,7 @@ class BlogIndex extends React.Component {
     sortedPages.forEach((page) => {
       if (access(page, 'file.ext') === 'md' && !include(page.path, '/404')) {
         const title = access(page, 'data.title') || page.path
+        const subtitle = access(page, 'data.subtitle') || page.path
         pageLinks.push(
           <li
             key={page.path}
@@ -27,7 +30,14 @@ class BlogIndex extends React.Component {
             }}
           >
             <Link to={prefixLink(page.path)}>{title}</Link>
-          </li>
+          </li>,
+          <p
+            style={{
+              marginBottom: rhythm(2),
+            }}
+          >
+            {subtitle}
+          </p>
         )
       }
     })
@@ -35,6 +45,8 @@ class BlogIndex extends React.Component {
       <DocumentTitle title={config.blogTitle}>
         <div>
           <Bio />
+          <Currently />
+          <Previously />
           <ul>
             {pageLinks}
           </ul>

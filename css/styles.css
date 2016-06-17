@@ -25,3 +25,10 @@ blockquote {
   padding-right: 0;
   color: rgba(35,30,30,0.3);
 }
+ul {
+  list-style: none;
+  margin-left: 0;
+}
+ol {
+  margin-left: 0;
+}

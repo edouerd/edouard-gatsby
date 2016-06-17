@@ -8,7 +8,7 @@ class Bio extends React.Component {
     return (
       <p
         style={{
-          marginBottom: rhythm(2.5),
+          marginBottom: rhythm(1.5),
         }}
       >
         Hey — I’m a physical–digital product designer né industrial designer based in New York City.
