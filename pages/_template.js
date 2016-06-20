@@ -54,6 +54,17 @@ class Template extends React.Component {
         }}
       >
         {header}
+        <h2>
+          <Link
+            style={{
+              textDecoration: 'none',
+              color: 'inherit',
+            }}
+            to={prefixLink('/info/')}
+          >
+            Info
+          </Link>
+        </h2>
         {children}
       </Container>
     )

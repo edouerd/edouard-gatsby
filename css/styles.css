@@ -3,8 +3,12 @@ body {
   color: rgba(35,30,30,0.9);
 }
 h1,h2,h3,h4,h5 {
+  display: inline-block;
   font: 20px/1.5 "Helvetica","Arial",sans-serif;
   color: rgba(35,30,30,0.9);
+}
+h2 {
+  float: right;
 }
 h6 {
   font: italic 15px/1.5 "Times","Times New Roman",serif;

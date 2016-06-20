@@ -47,6 +47,13 @@ class BlogIndex extends React.Component {
           <Bio />
           <Currently />
           <Previously />
+          <h6
+            style={{
+              marginBottom: rhythm(1.5),
+            }}
+          >
+            Projects In-Brief —
+          </h6>
           <ul>
             {pageLinks}
           </ul>
