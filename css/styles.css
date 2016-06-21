@@ -1,16 +1,22 @@
 body {
-  font: 20px/1.5 "Helvetica","Arial",sans-serif;
+  font: 20px/1.5 "Arial",sans-serif;
   color: rgba(35,30,30,0.9);
 }
 h1,h2,h3,h4,h5 {
   display: inline-block;
-  font: 20px/1.5 "Helvetica","Arial",sans-serif;
+  font: 20px/1.5 "Arial",sans-serif;
   color: rgba(35,30,30,0.9);
 }
 h2 {
   float: right;
 }
+h5 {
+  margin-bottom: 1.6rem;
+  font: italic 15px/1.5 "Times","Times New Roman",serif;
+  color: rgba(35,30,30,0.3);
+}
 h6 {
+  margin-bottom: 2.25rem;
   font: italic 15px/1.5 "Times","Times New Roman",serif;
   color: rgba(35,30,30,0.3);
 }
@@ -32,7 +38,20 @@ blockquote {
 ul {
   list-style: none;
   margin-left: 0;
+  margin-bottom: 2.25rem;
 }
 ol {
   margin-left: 0;
+  margin-bottom: 2.25rem;
+}
+.tumblr {
+    color: #529ECC;
+}
+
+.mornings {
+    color: #e65a2d;
+}
+
+.ss {
+    color: #76c865;
 }

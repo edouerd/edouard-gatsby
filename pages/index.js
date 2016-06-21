@@ -19,7 +19,7 @@ class BlogIndex extends React.Component {
       access(page, 'data.date')
     ).reverse()
     sortedPages.forEach((page) => {
-      if (access(page, 'file.ext') === 'md' && !include(page.path, '/404')) {
+      if (access(page, 'file.ext') === 'md' && !include(page.path, '/404') && !include(page.path, '/info')) {
         const title = access(page, 'data.title') || page.path
         const subtitle = access(page, 'data.subtitle') || page.path
         pageLinks.push(
@@ -47,13 +47,7 @@ class BlogIndex extends React.Component {
           <Bio />
           <Currently />
           <Previously />
-          <h6
-            style={{
-              marginBottom: rhythm(1.5),
-            }}
-          >
-            Projects In-Brief —
-          </h6>
+          <h6>Projects In-Brief —</h6>
           <ul>
             {pageLinks}
           </ul>

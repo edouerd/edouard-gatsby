@@ -17,7 +17,7 @@ class Template extends React.Component {
           style={{
             // fontSize: fontSizeToMS(1.5).fontSize,
             // lineHeight: fontSizeToMS(1.5).lineHeight,
-            // marginBottom: rhythm(1.5),
+            marginBottom: rhythm(1.5),
           }}
         >
           <Link
@@ -33,7 +33,13 @@ class Template extends React.Component {
       )
     } else {
       header = (
-        <h3>
+        <h1
+          style={{
+            // fontSize: fontSizeToMS(1.5).fontSize,
+            // lineHeight: fontSizeToMS(1.5).lineHeight,
+            marginBottom: rhythm(1.5),
+          }}
+        >
           <Link
             style={{
               textDecoration: 'none',
@@ -43,7 +49,7 @@ class Template extends React.Component {
           >
             {config.blogTitle}
           </Link>
-        </h3>
+        </h1>
       )
     }
     return (
@@ -62,7 +68,7 @@ class Template extends React.Component {
             }}
             to={prefixLink('/info/')}
           >
-            Info
+            Click for more
           </Link>
         </h2>
         {children}

@@ -11,7 +11,7 @@ Since this project is Ongoing, and things change rapidly all the time, this page
 
 If you want to begin with the oldest updates at the bottom of this page, go here.
 
-###### — Most Recently (Last week of August)
+##### — Most Recently (Last week of August)
 
 So with a good majority of my team out for vacation, things have been a little slow and I've been prototyping some mobile interfaces to accompany the changes we've delivered in the nav earlier this month. I've gone through several revisions of these, but I'm just showing a couple.
 
@@ -25,7 +25,7 @@ The views above depict a possible interface for viewing a list of sites you mana
 
 This simple prototype just shows how we might adapt our nav into a mobile format.
 
-###### — Nav and Styleguide (August 2015)
+##### — Nav and Styleguide (August 2015)
 
 This week some huge updates to PI's navigational structure finally got pushed into the actual product. Here's a comparison of what it was like, and what it is now:
 
@@ -51,7 +51,7 @@ No pressure right? Here's a few snapshots of our initial prototype guidelines an
 
 In IBM-speak, what Jess and I are doing is defining a ‘Dialect’ of IBM's primary design language, essentially taking the general principles outlined by the language and tailoring them to MobileFirst's portfolio — given the fluid context of working across devices inherent to a platform literally dedicated to mobile product design, a huge part of our job (as far as the style guide is concerned) is making sure experiences scale across product lines and device types.
 
-###### — Lab Jammin' (July 2015)
+##### — Lab Jammin' (July 2015)
 
 Mid-July, we flew out to meet our dev team in Raleigh. It was a very rad time full of working in the same room(!), drinking after work, and getting to know the people behind the telephone lines and chat interfaces. All this alone was worth the trip.
 
@@ -65,7 +65,7 @@ Here's one of the small demo systems we built — it's a bit scrappy:
 
 I was able to dive right into all of this stuff from a great vantage point as both first-time user and designer/researcher — the amount learned that I was able to relay back to my team and into the product was incredible, and there are many quick-turnaround improvements to be made.
 
-###### — Demo Sprints (May 2015)
+##### — Demo Sprints (May 2015)
 
 We took a couple weeks in May to step outside our normal sprint-to-sprint work stream and figure out some of the further-flung aspects of what PI could possibly and/or eventually do.
 
@@ -85,7 +85,7 @@ With the complete lack of cohesion between dataviz controls being the most glari
 
 Our primary improvement to these components resided in simply placing the controls closer to their context, retaining a sense of linear progression when selection options and making choices, and universally applying these controls to every data view. We additionally included the ability to view ‘Snapshots’ of data within our design, which extrapolated useful insights of the data in front of our users against the greater system at large.
 
-###### — How does Site Setup Work? (April 2015)
+##### — How does Site Setup Work? (April 2015)
 
 I've been embroiled in learning in ins–and–outs of setting up physical and digital infrastructure so that a sensing mesh network can actually function properly.
 
@@ -101,7 +101,7 @@ What we're looking at here is a very simplified model of what exactly constitute
 
 We'd expect our primary users to manipulate interfaces dealing in the green portion of this image.
 
-###### — Opportunities Abounding, Focus Narrowing (March 2015)
+##### — Opportunities Abounding, Focus Narrowing (March 2015)
 
 After our large bout of research and resulting synthesis, we had a huge amount of raw material for potential designing. Our research, coupled with workshops and interlocks with our design/research team in Israel, gave us a huge amount of momentum in tackling some of the larger issues at hand with PI, the primary ones being 1.) the setting up of physical sensing infrastructure, 2.) the setting up of the software, and 3.) visualizing data ingestion to make sure the system was running smoothly, and doing what it's advertised as doing.
 
@@ -111,7 +111,7 @@ Digital boards such as the ones shown above were printed out and scribbled over,
 
 At this time, being the designer most familiar with the technical background of Presence Insights as a system, I was given primary oversight over figuring out how to best communicate and model how site hardware/software infrastructure setup was to be accomplished. Most of the design work at this time was in the form of educational material for an entire team ramping up their knowledge into the “Proximity Services” space.
 
-###### — Research & Development (Feburary 2015)
+##### — Research & Development (Feburary 2015)
 
 When asked, I often refer to this period of time working on PI as one of the best periods of conjoined design/research efforts I've ever participated in. We had full trust and support from our management, engineering team, and other closely associated stakeholders — more than I had personally witnessed at IBM thus far, in my teams and others.
 
@@ -123,7 +123,7 @@ Later, when our period of research was tapering off and we primarily needed to s
 
 Thanks to our extended stay in research-mode, we had a well-defined set of functional design principles we could apply towards experiences aimed at both end-use consumers and the people actually using PI day-to-day.
 
-###### — Starting Off (January 2015)
+##### — Starting Off (January 2015)
 
 At the moment, my job is to take this powerful (and quite ugly) research project —
 
