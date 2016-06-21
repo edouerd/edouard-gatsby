@@ -14,7 +14,7 @@ path: "/info/"
 
 This site is:
 
-- Built with [Webpack](https://webpack.github.io/) + [React](https://facebook.github.io/react/)
+- Built with [Webpack](https://webpack.github.io/) + [React](https://facebook.github.io/react/).
 - Hosted on [Linode](https://www.linode.com/) + [Github](https://github.com/edouerd).
 - Set in Arial & Times.
 

@@ -7,4 +7,4 @@ readNext: "/hosting-static-sites-with-docker-and-nginx/"
 path: "/ra/"
 ---
 
-Shut
+Shut Up

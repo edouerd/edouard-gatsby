@@ -20,7 +20,7 @@ class Previously extends React.Component {
           }}
         >
           <li>
-          I was at <a href="http://www.ibm.com/design/">International Business Machines</a> building many things: A (global) community radio, a <a href="tba">platform</a> that blurred boundaries between physical space and big data, a <a href="https://www.youtube.com/watch?v=WwfC11NRPfQ">prototyping practice</a> non-designers/developers could understand, a democratic < a href="http://edouard.us/posts/ra.html">product</a> doomed to fail, and the <a href="http://www.ibm.com/design/thinking/">seed</a> of promise for enabling a 100-year old company to work better, together. It was a lovely time.</li>
+          I was at <a href="http://www.ibm.com/design/">International Business Machines</a> building many things: A (global) community radio, a <a href="/pi/">platform</a> that blurred boundaries between physical space and big data, a <a href="https://www.youtube.com/watch?v=WwfC11NRPfQ">prototyping practice</a> non-designers/developers could understand, a democratic < a href="/ra/">product</a> doomed to fail, and the <a href="http://www.ibm.com/design/thinking/">seed</a> of promise for enabling a 100-year old company to work better, together. It was a lovely time.</li>
         </ol>
         <p
           style={{

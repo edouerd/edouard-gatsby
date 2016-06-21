@@ -7,4 +7,4 @@ readNext: "/pi/"
 path: "/ibm-radio/"
 ---
 
-lol
+lol I haet this whyyy
