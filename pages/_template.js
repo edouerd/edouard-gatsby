@@ -68,7 +68,7 @@ class Template extends React.Component {
             }}
             to={prefixLink('/info/')}
           >
-            Other Links
+            Info + Links
           </Link>
         </h2>
         {children}

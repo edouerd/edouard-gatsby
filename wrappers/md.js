@@ -31,7 +31,7 @@ class MarkdownWrapper extends React.Component {
             }}
           />
           <ReadNext post={post} pages={route.pages} />
-          <Bio />
+          <p> ꒰ ・ ̫・ ꒱ <a href="mailto:mail@edouard.us">❁</a> + <a href="https://twitter.com/edouerd">且</a>_(・_・ )</p>
         </div>
       </DocumentTitle>
     )

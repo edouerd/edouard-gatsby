@@ -11,7 +11,7 @@ class Bio extends React.Component {
           marginBottom: rhythm(1.5),
         }}
       >
-        Hey — I’m a physical–digital product designer né industrial designer based in New York City.
+        ˗ˏˋ Hey ˎˊ˗ — I’m a physical–digital product designer né industrial designer based in New York City.
       </p>
     )
   }

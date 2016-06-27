@@ -1,3 +1,7 @@
+html {
+  background-color: #fffaf5;
+}
+
 body {
   font: 20px/1.5 "Arial",sans-serif;
   color: rgba(35,30,30,0.9);
@@ -21,10 +25,15 @@ h6 {
   color: rgba(35,30,30,0.3);
 }
 a {
-  color: rgba(35,30,30,0.3);
+  color: rgba(35,30,30,0.5);
+  text-decoration: none;
+}
+a > li {
+  color: rgba(35,30,30,0.9);
   text-decoration: none;
 }
 a:hover {
+  color: rgba(35,30,30,0.7);
   text-decoration: none;
 }
 blockquote {
@@ -54,4 +63,10 @@ ol {
 
 #ss {
     color: #76c865;
+}
+p > img {
+  margin-bottom: 0;
+}
+p + h6 {
+  margin-top: 2.25rem;
 }

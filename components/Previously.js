@@ -27,7 +27,7 @@ class Previously extends React.Component {
             marginBottom: rhythm(1.5),
           }}
         >
-          Thanks for visiting and stay a while. If you want, <a href="mailto:mail@edouard.us">send me a letter</a> or <a href="https://twitter.com/edouerd">tweet at me</a>.
+          Thanks for visiting and stay a while. If you want, <a href="mailto:mail@edouard.us">send me a letter</a> or <a href="https://twitter.com/edouerd">@ me</a>.
         </p>
       </div>
     )

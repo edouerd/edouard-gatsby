@@ -23,14 +23,15 @@ class BlogIndex extends React.Component {
         const title = access(page, 'data.title') || page.path
         const subtitle = access(page, 'data.subtitle') || page.path
         pageLinks.push(
-          <li
+          <Link to={prefixLink(page.path)}>
+            <li
             key={page.path}
             style={{
               marginBottom: rhythm(1/4),
             }}
           >
-            <Link to={prefixLink(page.path)}>{title}</Link>
-          </li>,
+            <strong>{title}</strong>
+          </li>
           <p
             style={{
               marginBottom: rhythm(2),
@@ -38,6 +39,7 @@ class BlogIndex extends React.Component {
           >
             {subtitle}
           </p>
+          </Link>
         )
       }
     })

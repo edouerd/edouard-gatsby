@@ -1,7 +1,7 @@
 ---
 title: IBM Presence Insights
-subtitle: An IoT platform/product that helps people get a deeper sense of their physical space and the individuals moving through it. I took point on the design of the PI's info–architecture, interaction models, and physical–digital infrastructure setup. Check out PI or read my once-ongoing project notes.
-date: "2015-05-06T23:46:37.121Z"
+subtitle: An IoT platform/product that helps people get a deeper sense of their physical space and the individuals moving through it. I took point on the design of the PI's info–architecture, interaction models, and physical–digital infrastructure setup.
+date: "2015-01-01T23:46:37.121Z"
 layout: post
 readNext: "/ra/"
 path: "/pi/"
