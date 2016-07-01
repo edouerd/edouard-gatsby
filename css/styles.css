@@ -53,6 +53,10 @@ ol {
   margin-left: 0;
   margin-bottom: 2.25rem;
 }
+@media screen and (max-width: 440px) {
+  ul,
+  ol {
+    margin-left: 1rem; } }
 #tumblr {
     color: #529ECC;
 }
